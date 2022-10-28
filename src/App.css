@@ -1,0 +1,19 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #3c4852;
+  -webkit-font-smoothing: antialiased;
+  font-family: AvertaStd, -apple-system, BlinkMacSystemFont, sans-serif !important;
+  overscroll-behavior: none;
+}
+
+.App {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
