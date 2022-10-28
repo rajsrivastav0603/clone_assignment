@@ -49,7 +49,7 @@ function LiveClass() {
                   <h4>
                     <div style={{ color: "white" }}>Doubts</div>
                     <p>View all the doubts solved in live</p>
-                    <p>class here</p>
+                    <p>class here.</p>
                   </h4>
                 </span>
               </Button1>

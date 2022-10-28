@@ -12,7 +12,7 @@ export const Navbar = () => {
               src="https://static.uacdn.net/production/_next/static/images/logo.svg?q=75&w=256"
               alt="logo"
             />
-            <div style={{ color: " #3C4852" }}>Creative Corner</div>
+            <div style={{ color: " #3C4852" }}>Creativity Corner</div>
           </div>
 
           <div className="account">
